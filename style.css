@@ -1,4 +1,4 @@
-/* Global */
+
 * { 
     margin: 0; 
     padding: 0;
@@ -76,7 +76,7 @@ li .details {
 
 .details p {
 
-    color: rgba(0, 0, 0, 0.6);
+    color: rgb(0, 0, 0);
     font-size: 14px; 
     line-height: 21px; 
 }
